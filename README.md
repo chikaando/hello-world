@@ -1,2 +1,6 @@
 # hello-world
-This is a test.
+Places to go with toddlers.
+SF Zoo
+Lawrence Hall of Sciences
+Bay Area Discovery Museum
+
